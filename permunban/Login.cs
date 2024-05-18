@@ -24,7 +24,7 @@ namespace Code7777
         public static api KeyAuthApp = new api(
     name: "Loader",
     ownerid: "lQDfKzMKbn",
-    secret: "27628f5fcbb27653282e433d3828b61c15c465c0f26f1e572ec77b547e2052a2",
+    secret: "",
     version: "1.0"
 );
         public Login()
